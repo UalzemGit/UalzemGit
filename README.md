@@ -8,7 +8,7 @@ My name is Ualzem Campos, I'm from Brazil. I graduated in Information Systems si
 <div style="display: inline_block"><br>
 
 
-<a href="https://github.com/UalzemGit/"></a>
+
   
   <img align="center" alt="ualzem-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="ualzem-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />

@@ -35,7 +35,7 @@ My name is Ualzem Campos, I'm from Brazil. I graduated in Information Systems si
 
  - 👉 From MG living in Pitangui.
 - 👫 Married to Alessandra.
-- 🧍‍♀️ Father of Luísa.
+- 🧍‍♀️ Luísa's father.
 
 
 ### Reach me out 👇

@@ -39,4 +39,4 @@ My name is Ualzem Campos, I'm from Brazil. I graduated in Information Systems si
 
 
 ### Reach me out 👇
-[![Linkedin Badge](https://img.shields.io/badge/-Ualzem%20Campos-0074b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/ualzem-campos/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/ualzem/)](https://www.instagram.com/ualzem/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ualzem%20Campos-0074b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/ualzem-campos/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/ualzem_sousa/)](https://www.instagram.com/ualzem_sousa/)
